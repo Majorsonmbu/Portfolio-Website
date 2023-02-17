@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    
+    height: 64px;
+    background: red;
+}
+
+.search-area {
+    background: #f1f3f4;
+} 
+
+.search-area input {
+    border: none;
+} 
+
+.logo-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.material-icons-outlined {
+    padding: 10px;
+}
+
+.settings-area {
+    display: flex;
+}
+
+.profile-actions-area {
+    display: flex;
+}
